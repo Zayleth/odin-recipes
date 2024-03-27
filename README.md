@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Uneweb-blue)
+![](https://zayleth.github.io/odin-recipes/)
 
 # How to do tasty food? Sushi, Hot Dog, Salad ;)
 
