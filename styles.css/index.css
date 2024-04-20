@@ -1,3 +1,50 @@
 h1{
-    color: pink;
+    font-family: fantasy;
+    color: black;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    text-align: right;
+}
+
+p{
+    padding: 8px;
+    font-family: "Mailand", "Kayana";
+    font-size: 8px;
+}
+
+.blanco{
+    background-color: white;
+    color: black;
+    padding: 16px;
+    margin: 0 auto;
+}
+
+
+
+.azul{
+    background-color: #8DA6CE;
+    color: black;
+    padding: 16px;
+    margin: 0 auto;
+}
+
+
+
+.morado{
+    background-color: #9b9bf6;
+    color: black;
+    padding: 16px;
+    margin: 0 auto;
+}
+
+
+.styles{
+    background-color: antiquewhite;
+}
+
+img{
+    border: 2px solid black;
 }
