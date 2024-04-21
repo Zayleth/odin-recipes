@@ -2,13 +2,13 @@
 
 # How to do tasty food? Sushi, Hot Dog, Salad ;)
 
->Cooking is the process of preparing food by applying heat. It's a fundamental human activity that allows us to transform raw ingredients into delicious and nutritious meals. There are countless ways to cook things, depending on the ingredients, desired outcome, and cultural influences. Below, a set of tasty recipes will be explained with the aim of learning to cook in a fun and fast way. We will learn to cook sushi, Caesar salad and hot dogs quickly and dynamically, I hope you like the recipes ;)
+>Cooking is considered a fundamental human activity that allows us to transform separate ingredients into delicious and nutritious meals. There are countless ways to cook things, depending on the ingredients, the desired outcome, and cultural influences. Below, a set of tasty recipes will be explained with the aim of learning to cook in a fun and fast way. We will learn how to cook sushi, Caesar salad and hot dogs quickly and dynamically, I hope you like the recipes;)
 
-![screenshot](/img/screen.jpg)
+![screenshot](/img/screen_actualizada.jpeg)
 
 ## Built With
 
-- Major languages: HTML
+- Major languages: HTML, CSS
 - Technologies used: Git, Git Hub
 
 ## Live Demo
