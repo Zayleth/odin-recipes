@@ -34,7 +34,7 @@ li{
 
 
 .azul{
-    background-color: #8DA6CE;
+    background-color: #ddcddb;
     color: black;
     padding: 10px;
     margin: 0 auto;
@@ -61,6 +61,7 @@ img{
     margin-bottom: 20px;
     margin-left: auto;
     margin-right: auto;
+    border: 2px solid black;
 }
 
 input[type="submit"]{
