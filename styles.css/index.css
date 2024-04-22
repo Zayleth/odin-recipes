@@ -1,0 +1,78 @@
+h1{
+    font-family: fantasy;
+    color: black;
+    font-size: 40px;
+    text-shadow: 4px 4px 6px gray;
+    margin-left: 550px;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    text-align: left;
+    font-size: 35px;
+    margin-left: 550px;
+}
+
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    padding: 10px;
+    text-align: center;
+}
+
+.blanco{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border: 2px solid black;
+}
+
+
+
+.azul{
+    background-color: #ddcddb;
+    color: black;
+    padding: 10px;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border: 2px solid black;
+}
+
+.morado{
+    background-color: #9b9bf6;
+    color: black;
+    padding: 10px;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border: 1px solid black;
+}
+
+img{
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+}
+
+input[type="submit"]{
+    display: block;
+    width: 20%;
+    margin: 0 auto;
+    height: 2em;
+    font-size: 1.1em;
+    background-color: white;
+}
+
+body{
+    background: linear-gradient(to bottom right, #98c3ed, pink);
+}
