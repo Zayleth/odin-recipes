@@ -19,6 +19,7 @@ li{
     font-size: 42px;
     padding: 10px;
     text-align: center;
+    list-style: none;
 }
 
 .blanco{
@@ -26,8 +27,10 @@ li{
     color: black;
     padding: 10px;
     border-radius: 20px;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin: 0 auto;
+    max-width: 600px;
+    /*margin-left: 500px;
+    margin-right: 500px; */
     border: 2px solid black;
 }
 
@@ -39,8 +42,8 @@ li{
     padding: 10px;
     margin: 0 auto;
     border-radius: 20px;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin: 0 auto;
+    max-width: 600px;
     border: 2px solid black;
 }
 
@@ -50,9 +53,9 @@ li{
     padding: 10px;
     margin: 0 auto;
     border-radius: 20px;
-    margin-left: 500px;
-    margin-right: 500px;
     border: 1px solid black;
+    margin: 0 auto;
+    max-width: 600px;
 }
 
 img{
@@ -62,6 +65,7 @@ img{
     margin-left: auto;
     margin-right: auto;
     border: 2px solid black;
+    display: inline;
 }
 
 input[type="submit"]{
