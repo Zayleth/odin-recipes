@@ -39,7 +39,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
 - Inspiration: some Youtube pages, family recipes, some fun to cook, and just enjoy ;)
 - Cook with friends and family: cooking is a social activity. Invite your loved ones to cook together and have fun preparing a delicious meal.
 

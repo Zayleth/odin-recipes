@@ -6,21 +6,28 @@ header{
     border-bottom: 4px solid black;
     font-size: 20px;
     font-family: fantasy;
-    margin-left: 600px;
-    margin-right: 600px;
-    margin-bottom: 20px;
-    margin-top: 20px;
+    width: 600px;
+    margin: 0 auto;
     text-shadow: 2px 2px 4px black;
 }
 
 body{
+    content: '';
+    position:absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
     background: linear-gradient(to bottom right, #98c3ed, rgb(230, 210, 214), beige);
+    background-size: cover;
+    background-position: center;
 }
 
 section{
     background-color: rgb(227, 225, 231);
-    margin-left: 600px;
-    margin-right: 600px;
+    width: 600px;
+    margin: 0auto;
     border: 2px solid black;
 }
 
@@ -30,10 +37,11 @@ section{
     border: 0;
 }
 
-label{
-    width: 170px;
-    margin: 80px auto;
+.label{
+    width: 600px;
+    margin: 0auto;
     padding: 0 10px;
+    border: 2px solid red;
 }
 
 h2, h3{
