@@ -2,7 +2,7 @@
 
 # How to do tasty food? Sushi, Hot Dog, Salad ;)
 
->Cooking is considered a fundamental human activity that allows us to transform separate ingredients into delicious and nutritious meals. There are countless ways to cook things, depending on the ingredients, the desired outcome, and cultural influences. Below, a set of tasty recipes will be explained with the aim of learning to cook in a fun and fast way. We will learn how to cook sushi, Caesar salad and hot dogs quickly and dynamically, I hope you like the recipes;)
+> Cooking is considered a fundamental human activity that allows us to transform separate ingredients into delicious and nutritious meals. There are countless ways to cook things, depending on the ingredients, the desired outcome, and cultural influences. Now, a set of tasty recipes will be explained with the aim of learning to cook in a fun and fast way. We will learn how to cook sushi, Caesar salad and hot dogs quickly and dynamically, I hope you like the recipes;)
 
 ![screenshot](/img/screen_actualizada.jpeg)
 
@@ -23,13 +23,11 @@
 
 👤 **Zayleth Alejandra Vegas Serfatty**
 
-- GitHub: [@Zayleth](https://github.com/aristides1000)
+- GitHub: [@Zayleth](https://github.com/Zayleth)
 - Instagram: @zayleth_v
 
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
+## 🤝 Issues Page
 
 Feel free to check the [issues page](https://github.com/Zayleth/odin-recipes/issues).
 
@@ -39,7 +37,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Inspiration: some Youtube pages, family recipes, some fun to cook, and just enjoy ;)
+- Inspiration: some Youtube pages, family recipes, some fun to cook ;)
 - Cook with friends and family: cooking is a social activity. Invite your loved ones to cook together and have fun preparing a delicious meal.
 
 ## 📝 License
